@@ -1,45 +1,53 @@
 {
-    "books": [{
-        "id": 1,
-        "title": "Jewish Meditation",
-        "author": "Rabbi Aryeh Kaplan",
-        "image": "https://i.thenile.io/r1000/9780805210378.jpg?r=5e83f96f7e77e",
-        "status": "Actively Reading"
+  "books": [
+    {
+      "id": 1,
+      "title": "Jewish Meditation",
+      "author": "Rabbi Aryeh Kaplan",
+      "image": "https://i.thenile.io/r1000/9780805210378.jpg?r=5e83f96f7e77e",
+      "status": "Actively Reading"
     },
     {
-        "id": 2,
-        "title": "Entering Jewish Prayer",
-        "author": "Rabbi Reuven Hammer",
-        "image": "https://cdn2.penguin.com.au/covers/400/9780805210224.jpg",
-        "status": "Actively Reading"
+      "id": 2,
+      "title": "Entering Jewish Prayer",
+      "author": "Rabbi Reuven Hammer",
+      "image": "https://cdn2.penguin.com.au/covers/400/9780805210224.jpg",
+      "status": "Actively Reading"
     },
     {
-        "id": 3,
-        "title": "Basic Judaism",
-        "author": "Rabbi Milton Steinberg",
-        "image": "https://images.thenile.io/r1000/9780156106986.jpg",
-        "status": "Finished Reading"
+      "id": 3,
+      "title": "Basic Judaism",
+      "author": "Rabbi Milton Steinberg",
+      "image": "https://images.thenile.io/r1000/9780156106986.jpg",
+      "status": "Finished Reading"
     },
     {
-        "id": 4,
-        "title": "Goodbye, Columbus",
-        "author": "Philip Roth",
-        "image": "https://i.pinimg.com/originals/6e/24/7c/6e247c58d7cbd62ff7f7132d6d841b42.jpg",
-        "status": "Reading Wishlist"
+      "id": 4,
+      "title": "Goodbye, Columbus",
+      "author": "Philip Roth",
+      "image": "https://i.pinimg.com/originals/6e/24/7c/6e247c58d7cbd62ff7f7132d6d841b42.jpg",
+      "status": "Reading Wishlist"
     },
     {
-        "id": 5,
-        "title": "Night",
-        "author": "Elie Wiesel",
-        "image": "https://i.pinimg.com/originals/5c/79/9e/5c799e75a2d05256e3de42866c089d6f.jpg",
-        "status": "Finished Reading"
+      "id": 5,
+      "title": "Night",
+      "author": "Elie Wiesel",
+      "image": "https://i.pinimg.com/originals/5c/79/9e/5c799e75a2d05256e3de42866c089d6f.jpg",
+      "status": "Finished Reading"
     },
     {
-        "id": 6,
-        "title": "The Promised Life",
-        "author": "Rabbi John Carrier",
-        "image": "https://i.ebayimg.com/images/g/hpIAAOSw9Xhf~vnf/s-l600.jpg",
-        "status": "Finished Reading"
+      "id": 6,
+      "title": "The Promised Life",
+      "author": "Rabbi John Carrier",
+      "image": "https://i.ebayimg.com/images/g/hpIAAOSw9Xhf~vnf/s-l600.jpg",
+      "status": "Finished Reading"
+    },
+    {
+      "title": "The Glory",
+      "author": "Herman Wouk",
+      "image": "https://th.bing.com/th/id/R.126f19aeafd90df9cde671a88d618ada?rik=PwGhjPWYjvRA1A&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9780316953191_p0_v3_s600x595.jpg&ehk=sOlTK53JwLfeEdeyZa2Fr1GGQBlvCxBpFgLNMn9NZIQ%3d&risl=&pid=ImgRaw&r=0",
+      "status": "Finished Reading",
+      "id": 7
     }
-    ]
+  ]
 }
